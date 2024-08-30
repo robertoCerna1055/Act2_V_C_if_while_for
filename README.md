@@ -12,5 +12,29 @@ Actividad 2 variables, cadenas, if, while y for
 - Resultado
 - ![image](https://github.com/user-attachments/assets/77e1312f-71a8-4156-ac21-e5c80e48da04)
 
+- if else
+-  para el caso si es verdadero
+-  ![image](https://github.com/user-attachments/assets/cfeecc2e-3556-44cb-92a4-9c02d73a3ba5)
+
+-  Resultado
+- ![image](https://github.com/user-attachments/assets/184390c7-48b6-49b9-8d4b-c87264b7928c)
+- Si no
+- ![image](https://github.com/user-attachments/assets/e31fd68c-7367-4d3b-8bfd-3eb012a5c793)
+
+- Resultado
+- ![image](https://github.com/user-attachments/assets/6d312223-2a5b-4351-999e-8618472fcd89)
+
+- While
+- ![image](https://github.com/user-attachments/assets/8fcc0543-c103-461b-b487-986e541a6a82)
+- Resultado
+- ![image](https://github.com/user-attachments/assets/482546b1-8b44-411a-a06a-08107df6f028)
+
+
+
+
+
+
+
+
 
 
